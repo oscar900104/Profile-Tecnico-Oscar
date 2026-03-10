@@ -22,7 +22,7 @@ Ingeniero Informatico Universidad Tecnológica de la Habana "CUJAE" - 2010 a 201
   - [Proyecto Realizado con Framework Laravel 5.4](https://github.com/oscar900104/Laravel-Backend) 
 - <b>Proyecto Web Frontend Sitio BIOCEN</b>
   - [Proyecto Realizado con Frontend con Angular 8.0](https://github.com/oscar900104/Biocen-Eti-Cli-8)
-- <b>Proyecto de Backend de Ejemplo para Empresa MUSALA SOFT</b>
+- <b>Proyecto FullStack de Ejemplo para Empresa MUSALA SOFT</b>
   - [APlicacion Desarrollada con Backend Node JS y Frontend Angular 14.2](https://github.com/oscar900104/MusalaSoft-example)
 
 
